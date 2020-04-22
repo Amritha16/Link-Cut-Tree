@@ -1,10 +1,7 @@
 //
 //  linkCut tree.cpp
 //  Link Cut trees
-//
-//  Created by Amritha on 19/10/18.
-//  Copyright © 2018 Amritha. All rights reserved.
-//
+
 
 #include <iostream>
 #include "linkCut tree.h"
