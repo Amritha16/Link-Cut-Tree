@@ -1,5 +1,4 @@
 # LinkCutTree
-
 An implementation of Tarjan and Sleator's 'dynamic tree'
 A link/cut tree is a data structure for representing a forest, a set of rooted trees, and offers the following operations:
 
